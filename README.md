@@ -1,8 +1,12 @@
 # faceDIANE
 A face DetectIon ANd idEntification comand line using OpenCV 
 
-# Features
-Detect faces and recognize if is a familiar face or not.
+# TODO:
+* Refactor code 
+* Setup some functionalities  
+* Identifie and label faces 
+* Identifie and label multiple faces
+* Use deep learning
 
 # Dependencies
 * Python3
@@ -10,6 +14,10 @@ Detect faces and recognize if is a familiar face or not.
 * Dlib  
 
 # Using
+
+# Features
+Detect faces and recognize if is a familiar face or not.
+
 # Authorship
 
 This project has made by [Felipe Andrade](https://github.com/felpsisonfire/) under MIT License. Copy, share and improving is always welcome.
